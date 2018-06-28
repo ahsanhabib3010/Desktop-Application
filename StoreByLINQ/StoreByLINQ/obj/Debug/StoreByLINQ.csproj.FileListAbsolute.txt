@@ -1,0 +1,26 @@
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\bin\Debug\StoreByLINQ.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.csprojResolveAssemblyReference.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.Customers.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.Form1.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.Properties.Resources.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.csproj.GenerateResource.Cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\bin\Debug\StoreByLINQ.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\bin\Debug\StoreByLINQ.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.GenerateCustomerReport.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\RdlCompile.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\StoreByLINQ\StoreByLINQ\obj\Debug\RdlCompile.compiled
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\bin\Debug\StoreByLINQ.exe.config
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.exe
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.pdb
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\bin\Debug\StoreByLINQ.exe
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\bin\Debug\StoreByLINQ.pdb
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.Customers.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.Form1.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.GenerateCustomerReport.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.Properties.Resources.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\StoreByLINQ.csproj.GenerateResource.Cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\RdlCompile.cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\StoreByLINQ\StoreByLINQ\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,18 @@
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.Cache
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+c:\users\daniyal.nawaz\documents\visual studio 2013\Projects\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\obj\Debug\StopWatch.Form1.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Sir Source Code\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.Cache

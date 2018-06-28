@@ -1,0 +1,32 @@
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\ShopByEntity.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\ShopByEntity.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\ShopByEntity.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.dll
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.SqlServer.dll
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.xml
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.SqlServer.xml
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.csprojResolveAssemblyReference.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.Form1.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.Properties.Resources.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.csproj.GenerateResource.Cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.report.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\RdlCompile.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\ShopByEntity\ShopByEntity\obj\Debug\RdlCompile.compiled
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\ShopByEntity.exe.config
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.exe
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.pdb
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\ShopByEntity.exe
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\ShopByEntity.pdb
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.dll
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.xml
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.Form1.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.Properties.Resources.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.report.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\ShopByEntity.csproj.GenerateResource.Cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\RdlCompile.cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\ShopByEntity\ShopByEntity\obj\Debug\RdlCompile.compiled

@@ -1,0 +1,12 @@
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\bin\Debug\BMICalculator.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csprojResolveAssemblyReference.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Form1.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\obj\Debug\BMICalculator.Properties.Resources.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\obj\Debug\BMICalculator.csproj.GenerateResource.Cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) LAB\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\BMICalculator\BMICalculator\bin\Debug\BMICalculator.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\BMICalculator\BMICalculator\obj\Debug\BMICalculator.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\BMICalculator\BMICalculator\obj\Debug\BMICalculator.pdb

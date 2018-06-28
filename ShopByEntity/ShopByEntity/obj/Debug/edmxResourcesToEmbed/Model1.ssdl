@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SMSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Customers">
+    <Key>
+      <PropertyRef Name="cid" />
+    </Key>
+    <Property Name="cid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="cname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ccontact" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="caddress" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cemail" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SMS.dbo.OrderDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="OrderDetails">
+    <Key>
+      <PropertyRef Name="pid" />
+      <PropertyRef Name="oid" />
+    </Key>
+    <Property Name="pid" Type="int" Nullable="false" />
+    <Property Name="oid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Orders">
+    <Key>
+      <PropertyRef Name="oid" />
+    </Key>
+    <Property Name="oid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="odate" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cid" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="pid" />
+    </Key>
+    <Property Name="pid" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="pname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pprice" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pquantity" Type="int" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'SMS.dbo.CustomerDetails' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="CustomerDetails">
+    <Key>
+      <PropertyRef Name="cname" />
+      <PropertyRef Name="ccontact" />
+      <PropertyRef Name="caddress" />
+      <PropertyRef Name="cemail" />
+      <PropertyRef Name="odate" />
+      <PropertyRef Name="pquantity" />
+      <PropertyRef Name="pname" />
+      <PropertyRef Name="pprice" />
+    </Key>
+    <Property Name="cname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="ccontact" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="caddress" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="cemail" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="odate" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pquantity" Type="int" Nullable="false" />
+    <Property Name="pname" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="pprice" Type="varchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_OrderDetails_Orders">
+    <End Role="Orders" Type="Self.Orders" Multiplicity="1" />
+    <End Role="OrderDetails" Type="Self.OrderDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Orders">
+        <PropertyRef Name="oid" />
+      </Principal>
+      <Dependent Role="OrderDetails">
+        <PropertyRef Name="oid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_OrderDetails_Products">
+    <End Role="Products" Type="Self.Products" Multiplicity="1" />
+    <End Role="OrderDetails" Type="Self.OrderDetails" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Products">
+        <PropertyRef Name="pid" />
+      </Principal>
+      <Dependent Role="OrderDetails">
+        <PropertyRef Name="pid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Orders_Customers">
+    <End Role="Customers" Type="Self.Customers" Multiplicity="1" />
+    <End Role="Orders" Type="Self.Orders" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customers">
+        <PropertyRef Name="cid" />
+      </Principal>
+      <Dependent Role="Orders">
+        <PropertyRef Name="cid" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SMSModelStoreContainer">
+    <EntitySet Name="Customers" EntityType="Self.Customers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Orders" EntityType="Self.Orders" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="OrderDetails" EntityType="Self.OrderDetails" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [OrderDetails].[pid] AS [pid], 
+    [OrderDetails].[oid] AS [oid]
+    FROM [dbo].[OrderDetails] AS [OrderDetails]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="CustomerDetails" EntityType="Self.CustomerDetails" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [CustomerDetails].[cname] AS [cname], 
+    [CustomerDetails].[ccontact] AS [ccontact], 
+    [CustomerDetails].[caddress] AS [caddress], 
+    [CustomerDetails].[cemail] AS [cemail], 
+    [CustomerDetails].[odate] AS [odate], 
+    [CustomerDetails].[pquantity] AS [pquantity], 
+    [CustomerDetails].[pname] AS [pname], 
+    [CustomerDetails].[pprice] AS [pprice]
+    FROM [dbo].[CustomerDetails] AS [CustomerDetails]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_OrderDetails_Orders" Association="Self.FK_OrderDetails_Orders">
+      <End Role="Orders" EntitySet="Orders" />
+      <End Role="OrderDetails" EntitySet="OrderDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_OrderDetails_Products" Association="Self.FK_OrderDetails_Products">
+      <End Role="Products" EntitySet="Products" />
+      <End Role="OrderDetails" EntitySet="OrderDetails" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Orders_Customers" Association="Self.FK_Orders_Customers">
+      <End Role="Customers" EntitySet="Customers" />
+      <End Role="Orders" EntitySet="Orders" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

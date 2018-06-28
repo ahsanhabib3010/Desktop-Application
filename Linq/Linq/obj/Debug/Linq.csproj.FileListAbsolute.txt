@@ -1,0 +1,32 @@
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\bin\Debug\Linq.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\bin\Debug\Linq.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\bin\Debug\Linq.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.DeleteCourses.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.UpdateCourses.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.ViewCourses.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.AddCourses.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.Form1.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.Cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\Linq.Marksheet.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\RdlCompile.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Linq\Linq\obj\Debug\RdlCompile.compiled
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\bin\Debug\Linq.exe.config
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.exe
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.pdb
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\bin\Debug\Linq.exe
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\bin\Debug\Linq.pdb
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.csprojResolveAssemblyReference.cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.DeleteCourses.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.Marksheet.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.UpdateCourses.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.ViewCourses.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.AddCourses.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.Form1.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.Properties.Resources.resources
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\Linq.csproj.GenerateResource.Cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\RdlCompile.cache
+C:\Users\Ahsan Habib\Desktop\C# Programs\Linq\Linq\obj\Debug\RdlCompile.compiled

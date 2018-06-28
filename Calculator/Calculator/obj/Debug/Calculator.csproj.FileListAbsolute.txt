@@ -1,0 +1,17 @@
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\27792\documents\visual studio 2013\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Ahsan's Documents\Iqra University - IU\Semester 6 (SPRING-17)\Visual Programming Language (VPL) (LAB)\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
